@@ -1,0 +1,25 @@
+{
+  "name": "whoareya",
+  "version": "1.0.0",
+  "description": "This app is telegram bot about mini football game, where the user should guess the player",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aitughan/whoareya.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aitughan/whoareya/issues"
+  },
+  "homepage": "https://github.com/aitughan/whoareya#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.58.0",
+    "nodemon": "^2.0.19"
+  }
+}
