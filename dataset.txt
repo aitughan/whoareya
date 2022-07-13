@@ -1,0 +1,7 @@
+db.users.insertMany([
+    {id:1,fname: "Aaron", lname: "Ramsdale", age: 24, team: "Arsenal", national: "England" },
+    {id:2,fname: "Bernd", lname: "Leno" , age: 30, national: "Germany" },
+    {id:3,fname: "Ben", lname: "White" , age: 24, national: "England"},
+    {id:4,fname: "Gabriel", lname: null, age: 24, national: "Brazil"},
+    {id:5,fname: "Kieran", lname:"Tierney" , age:25, national:"Scotland"},
+    ])
